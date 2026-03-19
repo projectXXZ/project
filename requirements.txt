@@ -1,0 +1,14 @@
+streamlit>=1.35
+beautifulsoup4>=4.12
+lxml>=5.2
+requests>=2.32
+tldextract>=5.1
+idna>=3.7
+pillow>=10.4
+opencv-python-headless>=4.10
+rapidfuzz>=3.9
+dnspython>=2.6
+
+# Опционально: нейросетевой анализ текста (zero-shot classification)
+# transformers>=4.40
+# torch>=2.2
